@@ -1,7 +1,10 @@
 # CS2813ProjectOne
 To run this code make sure you have a C++ compiler installed (I'll explain using MinGW). Make sure the Compiler's location is added to your system's PATH environment so it can be accessed from any directory. After downloading the .cpp file, navigate to wherever it is saved using the cd command in terminal / command prompt. 
+
 EX: cd C:\Users\YourName\Downloads (or wherever it is saved). 
+
 First, you have to compile the program using the command: g++ CS2813ProjectOne.cpp -o output_name
+
 Then, you can run it using the command: ./output_name
 
 The expected outputs of the program are:
